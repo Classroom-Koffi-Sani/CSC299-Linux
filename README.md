@@ -50,7 +50,7 @@ Which commands did you use ?
 Create an issue with the output of your command line. The title should be 1.c Files containing "Magna" or "magna".
 
 ### d. Create subfolders
-There are only three `files*` -directories. Create new ones : `filesAR`, `filesCN`,  `filesDE`, `filesEN`, and `filesPT` for files containing `AR`, `CN`, `DE`, `EN` and `PT` respectively and move the files to those directories. 
+There are only two `files*` -directories. Create new ones : `filesAR`, `filesCN`,  `filesDE`, `filesEN`, and `filesPT` for files containing `AR`, `CN`, `DE`, `EN` and `PT` respectively and move the files to those directories. 
 
 Use only one command to move these files to the corresponding directory.
 
